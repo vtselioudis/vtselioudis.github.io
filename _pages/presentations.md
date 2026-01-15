@@ -1,4 +1,5 @@
 ---
+permalink: /presentations/
 layout: archive
 title: "Presentations"
 author_profile: true
