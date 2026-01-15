@@ -5,6 +5,7 @@ title: "Presentations"
 author_profile: true
 redirect_from: 
   - /presentations/
+  - /presentations.html
 ---
 
 Peer-Reviewed Presentations
